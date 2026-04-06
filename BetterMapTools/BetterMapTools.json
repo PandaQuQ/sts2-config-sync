@@ -1,0 +1,13 @@
+{
+  "id": "BetterMapTools",
+  "name": "BetterMapTools",
+  "author": "Jack Carlton",
+  "description": "Map tools framework with a route solver and reusable toolbar button API for future map utilities.",
+  "version": "1.2.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    "ModManagerSettings"
+  ],
+  "affects_gameplay": false
+}
