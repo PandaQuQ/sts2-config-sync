@@ -1,1 +1,0 @@
-C:/Users/Panda/AppData/Roaming/Vortex/slaythespire2/mods/RunStatTracker-399-1-1-2-1775688317/RunStatTracker/RunStatTracker.pck

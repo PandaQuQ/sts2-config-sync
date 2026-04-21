@@ -1,0 +1,11 @@
+{
+  "id": "RunStatTracker",
+  "name": "RunStatTracker",
+  "author": "Jack Carlton",
+  "description": "Adds a dedicated run stats dashboard for singleplayer and multiplayer, including per-stat graphs driven by the stat registry.",
+  "version": "1.1.2",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

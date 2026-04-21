@@ -1,0 +1,11 @@
+{
+  "id": "DisableMainMenuMusic",
+  "name": "Disable Main Menu Music",
+  "author": "Lasse Pladsen",
+  "description": "Disables the looping main menu music by default, with an optional ModConfig toggle",
+  "version": "v1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
