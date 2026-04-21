@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "symlink_activator_elevated",
   "gameId": "slaythespire2",
-  "deploymentTime": 1776792884454,
+  "deploymentTime": 1776792970721,
   "stagingPath": "C:\\Users\\Panda\\AppData\\Roaming\\Vortex\\slaythespire2\\mods",
   "targetPath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods",
   "files": [
