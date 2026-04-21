@@ -1,0 +1,1 @@
+C:/Users/Panda/AppData/Roaming/Vortex/slaythespire2/mods/ModManagerSettings-398-1-1-1-1775687864/ModManagerSettings/ModManagerSettings.pck

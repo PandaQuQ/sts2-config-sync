@@ -1,0 +1,1 @@
+C:/Users/Panda/AppData/Roaming/Vortex/slaythespire2/mods/ModSync-84-1-04-1774027218/mods/ModSync/ModSync.pck

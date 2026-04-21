@@ -1,0 +1,1 @@
+C:/Users/Panda/AppData/Roaming/Vortex/slaythespire2/mods/QuickReload-235-1-0-4-1776712350/QuickReload/QuickReload.pck
