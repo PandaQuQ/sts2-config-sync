@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "symlink_activator_elevated",
   "gameId": "slaythespire2",
-  "deploymentTime": 1776790828098,
+  "deploymentTime": 1776792702742,
   "stagingPath": "C:\\Users\\Panda\\AppData\\Roaming\\Vortex\\slaythespire2\\mods",
   "targetPath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods",
   "files": [
@@ -32,12 +32,6 @@
       "time": 1775687702000
     },
     {
-      "relPath": "ModConfig\\ModConfig.pck",
-      "source": "25_a9_40_25a94023-5c03-4e66-bed5-bda2236fd03b",
-      "target": "",
-      "time": 1776617512000
-    },
-    {
       "relPath": "QuickReload\\QuickReload.pck",
       "source": "QuickReload-235-1-0-4-1776712350",
       "target": "",
@@ -62,22 +56,10 @@
       "time": 1776602548000
     },
     {
-      "relPath": "ModConfig\\ModConfig.dll",
-      "source": "25_a9_40_25a94023-5c03-4e66-bed5-bda2236fd03b",
-      "target": "",
-      "time": 1776617512000
-    },
-    {
       "relPath": "BetterSpire2\\BetterSpire2.json",
       "source": "BetterSpire2-2-1-78-1775761581",
       "target": "",
       "time": 1775761299000
-    },
-    {
-      "relPath": "DeathNoDelete\\mod_manifest.json",
-      "source": "DeathNoDeleteV0.1.0-335-V0-1-0-1774880175",
-      "target": "",
-      "time": 1774229112000
     },
     {
       "relPath": "ColoredMapS2\\ColoredMapS2.pck",
@@ -90,12 +72,6 @@
       "source": "Disable Main Menu Music-359-1-1775128697",
       "target": "",
       "time": 1775128513000
-    },
-    {
-      "relPath": "ModConfig\\ModConfig.json",
-      "source": "25_a9_40_25a94023-5c03-4e66-bed5-bda2236fd03b",
-      "target": "",
-      "time": 1776617512000
     },
     {
       "relPath": "DamageMeter\\DamageMeter.pck",
@@ -132,12 +108,6 @@
       "source": "Download-103-3-0-7-1776581865.1",
       "target": "",
       "time": 1776552106000
-    },
-    {
-      "relPath": "DeathNoDelete\\DeathNoDelete.dll",
-      "source": "DeathNoDeleteV0.1.0-335-V0-1-0-1774880175",
-      "target": "",
-      "time": 1774840238000
     },
     {
       "relPath": "STS2-RitsuLib\\mod_manifest.json",
@@ -198,6 +168,24 @@
       "source": "Disable Main Menu Music-359-1-1775128697",
       "target": "",
       "time": 1775127407000
+    },
+    {
+      "relPath": "ModConfig\\ModConfig.pck",
+      "source": "25_a9_40_25a94023-5c03-4e66-bed5-bda2236fd03b",
+      "target": "",
+      "time": 1776617512000
+    },
+    {
+      "relPath": "ModConfig\\ModConfig.json",
+      "source": "25_a9_40_25a94023-5c03-4e66-bed5-bda2236fd03b",
+      "target": "",
+      "time": 1776617512000
+    },
+    {
+      "relPath": "ModConfig\\ModConfig.dll",
+      "source": "25_a9_40_25a94023-5c03-4e66-bed5-bda2236fd03b",
+      "target": "",
+      "time": 1776617512000
     }
   ]
 }
