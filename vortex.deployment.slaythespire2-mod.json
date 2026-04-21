@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "symlink_activator_elevated",
   "gameId": "slaythespire2",
-  "deploymentTime": 1776792838972,
+  "deploymentTime": 1776792884419,
   "stagingPath": "C:\\Users\\Panda\\AppData\\Roaming\\Vortex\\slaythespire2\\mods",
   "targetPath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods",
   "files": [
@@ -156,6 +156,48 @@
       "source": "Colored Map S2-338-0-1-1-1775202878",
       "target": "",
       "time": 1775202665000
+    },
+    {
+      "relPath": "RunStatTracker\\RunStatTracker.pck",
+      "source": "RunStatTracker-399-1-1-2-1775688317",
+      "target": "",
+      "time": 1775688249000
+    },
+    {
+      "relPath": "RunStatTracker\\RunStatTracker.json",
+      "source": "RunStatTracker-399-1-1-2-1775688317",
+      "target": "",
+      "time": 1775688249000
+    },
+    {
+      "relPath": "RunStatTracker\\RunStatTracker.dll",
+      "source": "RunStatTracker-399-1-1-2-1775688317",
+      "target": "",
+      "time": 1775688249000
+    },
+    {
+      "relPath": "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck",
+      "source": "Remove Multiplayer Player Limit-21-0-1-5-1776493107",
+      "target": "",
+      "time": 1776458256000
+    },
+    {
+      "relPath": "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+      "source": "Remove Multiplayer Player Limit-21-0-1-5-1776493107",
+      "target": "",
+      "time": 1776458168000
+    },
+    {
+      "relPath": "RemoveMultiplayerPlayerLimit\\config.ini",
+      "source": "Remove Multiplayer Player Limit-21-0-1-5-1776493107",
+      "target": "",
+      "time": 1776458256000
+    },
+    {
+      "relPath": "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+      "source": "Remove Multiplayer Player Limit-21-0-1-5-1776493107",
+      "target": "",
+      "time": 1776458254000
     }
   ]
 }
