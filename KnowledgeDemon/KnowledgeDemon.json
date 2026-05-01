@@ -1,0 +1,11 @@
+{
+  "id": "KnowledgeDemon",
+  "name": "Knowledge Demon Companion",
+  "author": "ikana1146",
+  "description": "Overlays crowd-sourced stats on key decision points, powered by data uploaded to knowledgedemon.com.\n\nHold Shift to peek at overlays, or configure Always Show below.",
+  "version": "v0.7.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
