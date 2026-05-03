@@ -1,0 +1,11 @@
+{
+  "id": "MapShapes",
+  "name": "Map Shapes",
+  "author": "小小小朋友",
+  "description": "在地图上快速绘制自定义图形，队友可见。Import custom shapes and draw them on the map for everyone to see.",
+  "version": "1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

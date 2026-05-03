@@ -1,0 +1,14 @@
+{
+  "api_url": "https://knowledgedemon.com",
+  "data_source": 0,
+  "always_show_card_pick": true,
+  "always_show_rest_site": true,
+  "always_show_smith": true,
+  "always_show_ancient": true,
+  "always_show_shop": true,
+  "peek_key": "Shift",
+  "change_data_source_key": "Shift\u002BZ",
+  "show_welcome_card": true,
+  "use_modded_save_dir": true,
+  "dev_override_token": null
+}

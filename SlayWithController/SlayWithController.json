@@ -1,0 +1,11 @@
+﻿{
+	"id": "SlayWithController",
+	"name": "SlayWithController",
+	"author": "Caelus",
+	"version": "1.3.4",
+	"description": "A Slay the Spire 2 mod focused on improving controller support and quality of life for controller players.",
+	"has_pck": false,
+	"has_dll": true,
+	"dependencies": [],
+	"affects_gameplay": false
+}
