@@ -1,0 +1,17 @@
+{
+  "id": "PaelGirl",
+  "name": "PaelGirl",
+  "author": "LeahLitty",
+  "description": "Replace Pael to girl",
+  "version": "0.2.2",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {
+      "id": "BaseLib",
+      "min_version": "3.1.2"
+    }
+  ],
+  "min_game_version": "0.103.3",
+  "affects_gameplay": false
+}

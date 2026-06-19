@@ -1,0 +1,10 @@
+{
+  "id": "voicemod",
+  "name": "VoiceModFramework",
+  "author": "Yatima",
+  "description": "Character voice line framework for Slay the Spire 2. Provides automatic voice playback and subtitle display. Place a voicepack.json in any other mod folder to add voices for additional characters.",
+  "version": "1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": false
+}

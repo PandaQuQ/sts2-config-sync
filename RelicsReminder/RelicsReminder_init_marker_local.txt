@@ -1,2 +1,2 @@
-Loaded at 2026-05-24T15:41:46.8457551+01:00
+Loaded at 2026-06-19T23:33:32.2455167+01:00
 Assembly=RelicsReminder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null

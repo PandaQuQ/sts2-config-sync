@@ -1,0 +1,14 @@
+{
+  "_note": "VoiceModFramework voice pack config — NOT a mod manifest",
+  "character_id": "REGENT",
+  "voices_dir": "voices_regent",
+  "subtitle_dir": "voices_regent",
+  "icon_path": "icon.png",
+  "font_paths": {
+    "ja": "font/logotypejp_mp_b_1.1.ttf",
+    "ko": "font/SCDream4.otf",
+    "en": "font/BebasKai-Regular.otf"
+  },
+  "bubble_texture": "textures/Bubble.png",
+  "subtitle_color": "#FF8C00"
+}

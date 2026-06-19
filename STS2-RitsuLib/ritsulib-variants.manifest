@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "variants": [
+    {
+      "compatTarget": "0.107.1",
+      "directory": "lib/0.107.1",
+      "assembly": "STS2-RitsuLib.dll",
+      "sha256": "79abcd5ba29822a3cca7187ebe8f2baca4fa9dbb8d0dc33bfe3738610c9dcf05"
+    }
+  ]
+}
