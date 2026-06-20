@@ -1,0 +1,12 @@
+{
+  "id": "AnimeDefectCards",
+  "name": "Anime Defect Cards",
+  "author": "黑洞飞鱼 Painttist",
+  "description": "A mod that change the Defect cards into cute anime style. 将故障机器人的卡图替换成可爱动漫风格",
+  "version": "0.9.0",
+  "min_game_version": "0.103.0",
+  "has_pck": true,         
+  "has_dll": true,        
+  "dependencies": [],     
+  "affects_gameplay": false
+}

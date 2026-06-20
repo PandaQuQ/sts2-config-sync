@@ -1,0 +1,10 @@
+{
+  "id": "Necro_Icons",
+  "name": "Necro_Icons",
+  "author": "Refia",
+  "description": "Replaces Necro's icons with cute anime girl",
+  "version": "v0.0.1",
+  "has_pck": true,
+  "has_dll": true, 
+  "affects_gameplay": false
+}

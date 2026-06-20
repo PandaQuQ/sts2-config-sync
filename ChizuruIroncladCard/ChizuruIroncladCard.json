@@ -1,0 +1,11 @@
+{
+  "id": "ChizuruIroncladCard",
+  "name": "Chizuru Ironclad Card Art",
+  "author": "Pelleas",
+  "description": "Standalone Chizuru-themed card-art replacement pack for Ironclad cards. NexusMods: https://www.nexusmods.com/slaythespire2/mods/1248",
+  "version": "v0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

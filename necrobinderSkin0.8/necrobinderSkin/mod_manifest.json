@@ -1,0 +1,11 @@
+{
+"id": "necrobinderSkin",
+"pck_name": "necrobinderSkin",
+"name": "necrobinderSkin",
+"author": "FeliNyx",
+"description": "Skin",
+"version": "0.0.1",
+"has_pck": true,
+"has_dll": false,
+"affects_gameplay": false
+}

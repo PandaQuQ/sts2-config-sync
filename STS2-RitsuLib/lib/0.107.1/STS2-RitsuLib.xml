@@ -26443,6 +26443,21 @@
             Cached name for the 'CreateFixedValueLabel' method.
             </summary>
         </member>
+        <member name="F:STS2RitsuLib.Networking.JoinDiagnostics.JoinFailureDiagnosticsPanel.MethodName.CreateSourceIconSlot">
+            <summary>
+            Cached name for the 'CreateSourceIconSlot' method.
+            </summary>
+        </member>
+        <member name="F:STS2RitsuLib.Networking.JoinDiagnostics.JoinFailureDiagnosticsPanel.MethodName.CreateDependencyRail">
+            <summary>
+            Cached name for the 'CreateDependencyRail' method.
+            </summary>
+        </member>
+        <member name="F:STS2RitsuLib.Networking.JoinDiagnostics.JoinFailureDiagnosticsPanel.MethodName.CreateDependencyPill">
+            <summary>
+            Cached name for the 'CreateDependencyPill' method.
+            </summary>
+        </member>
         <member name="F:STS2RitsuLib.Networking.JoinDiagnostics.JoinFailureDiagnosticsPanel.MethodName.CreateInfoCard">
             <summary>
             Cached name for the 'CreateInfoCard' method.
@@ -26496,6 +26511,11 @@
         <member name="F:STS2RitsuLib.Networking.JoinDiagnostics.JoinFailureDiagnosticsPanel.MethodName.ValueColor">
             <summary>
             Cached name for the 'ValueColor' method.
+            </summary>
+        </member>
+        <member name="F:STS2RitsuLib.Networking.JoinDiagnostics.JoinFailureDiagnosticsPanel.MethodName.FormatVersion">
+            <summary>
+            Cached name for the 'FormatVersion' method.
             </summary>
         </member>
         <member name="F:STS2RitsuLib.Networking.JoinDiagnostics.JoinFailureDiagnosticsPanel.MethodName.T">

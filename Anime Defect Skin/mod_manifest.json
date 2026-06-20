@@ -1,0 +1,12 @@
+{
+"id": "animeDefect",
+"pck_name": "animeDefect",
+"name": "Anime Defect",
+"author": "黑洞飞鱼 Painttist",
+"description": "A cute anime redesign of the Defect, includes battle model and animation and character select. 故障机器人娘化mod, 包含战斗模型和动画，以及自定义的角色选择界面.",
+"version": "0.4.0",
+"min_game_version": "0.105.0",
+"has_pck": true,
+"has_dll": false,
+"affects_gameplay": false
+}

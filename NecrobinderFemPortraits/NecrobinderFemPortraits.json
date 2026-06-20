@@ -1,0 +1,11 @@
+{
+  "id": "NecrobinderFemPortraits",
+  "name": "尖塔棺者卡图娘化",
+  "author": "失地骑士Hatk&LingEnd",
+  "description": "棺者卡图替换Mod",
+  "version": "v0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

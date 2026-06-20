@@ -1,0 +1,11 @@
+{
+  "id": "HeidemarieRegentCard",
+  "name": "Heidemarie Regent Card Art",
+  "author": "Pelleas",
+  "description": "Standalone Heidemarie-themed card-art replacement pack for The Regent. Replaces Regent, Colorless, Curse, and Token card portraits only; gameplay and balance are unchanged. NexusMods: https://www.nexusmods.com/slaythespire2/mods/1312",
+  "version": "v0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
